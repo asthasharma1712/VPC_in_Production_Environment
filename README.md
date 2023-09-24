@@ -24,6 +24,8 @@ Use the following procedure to create a VPC with a public subnet and a private s
     1.2 - Configure the AZs, public and private subnets, NAT gateway and VPC endpoints as mentioned below
               
 ![App Screenshot](https://github.com/asthasharma1712/VPC_in_Production_Environment/assets/85539636/a1c7cb42-f9f6-422c-bf22-a17efc565ec4)
+
+
 Preview : 
 ![App Screenshot](https://github.com/asthasharma1712/VPC_in_Production_Environment/assets/85539636/78ef1d15-7e84-485c-a046-ebef0d1b7bdf)
 
